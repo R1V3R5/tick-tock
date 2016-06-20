@@ -1,5 +1,14 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  color: white; }
+
 .clock {
   width: 690px;
   height: 455px;
-  background-color: black;
-  margin: 0 auto; }
+  background-color: #000000;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 450px; }
+  .clock h1 {
+    font-size: 120px;
+    color: white; }
